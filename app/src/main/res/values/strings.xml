@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Crypto Stats</string>
+    <string name="menu_refresh">Refresh</string>
+
+    <string name="market_stats_label">Total Market Stats</string>
+
+    <!-- Coin Data -->
+
+
+</resources>
